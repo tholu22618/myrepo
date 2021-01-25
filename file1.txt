@@ -1,1 +1,3 @@
+
 a new line on file1
+a new text file
